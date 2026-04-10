@@ -2,7 +2,7 @@
 <h3 align="center">📊 Data Analyst | SQL | Python |Microsoft Power BI |Microsoft Excel</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aunirban-roy-449a74206/" target="_blank">
+  <a href="https://www.linkedin.com/in/anirban-roy-449a74206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/anidata3099" target="_blank">
