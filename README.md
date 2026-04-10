@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirban Roy</h1>
-<h3 align="center">📊 Data Analyst | SQL • Python • Power BI • Excel</h3>
+<h3 align="center">📊 Data Analyst | SQL | Python |Microsoft Power BI |Microsoft Excel</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aunirban-roy-449a74206/" target="_blank">
