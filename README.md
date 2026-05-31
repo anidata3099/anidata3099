@@ -26,9 +26,9 @@
 
 | Category | Tools |
 |---|---|
-| 📊 Visualization | Power BI, Excel |
-| 🗄️ Database | MySQL, SQL |
-| 🐍 Programming | Python, Pandas |
+| 📊 Visualization | Power BI, Excel,Matpotlib,seabon |
+| 🗄️ Database | MySQL, SQL,supabase |
+| 🐍 Programming | Python, Pandas,seabon |
 | 📁 Others | Git, GitHub |
 
 ---
@@ -40,7 +40,7 @@
 | [Amazon sell Analysis](https://github.com/anidata3099/Amazon-store-sell-analysis) |Amazon sell analysis  & satisfaction insights | Mysql |
 | [Car Sale Dashboard](https://github.com/anidata3099/Car-sale-Dashboard) | End-to-end sales analysis with DAX & data modeling | Power BI |
 | [Customer Behaviour Analysis](https://github.com/anidata3099/Customer-behaviour-analysis) | Revenue, seasonality & loyalty insights | Power BI |
-| [Superstore Analytics](https://github.com/anidata3099/superstore-analytics-powerbi) | KPI tracking with time intelligence DAX | Power BI |
+| [Customer Purchase behaviour analysis](https://github.com/anidata3099/Customer-purchase-behaviour-analysis) | purchase behaviour analysis | Seabon | |pandas| |Matpotlib|
 
 ---
 
